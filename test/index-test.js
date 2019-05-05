@@ -1,4 +1,3 @@
-
 describe('shout(string)', function shout(string) {
   it('receives one argument and returns it in all uppercase', function () {
     return string.toUpperCase()
